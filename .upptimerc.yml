@@ -6,7 +6,7 @@ sites:
   - name: Starblox Ranking Services
     url: https://Starblox-or-System.cvxcvxdfgfg.repl.co
  baseUrl: /repo # where "repo" is your repository name
-  name: Your Status Website
+  name: Starblox Status
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
